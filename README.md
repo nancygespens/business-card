@@ -18,7 +18,7 @@ The Digital Business Card is a simple, stylish web application designed to showc
 - HTML
 - CSS
 
-# Getting Started
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
