@@ -4,8 +4,7 @@ body {
     background: #c5bafc;
 }
 
-
-.card {
+#card {
     width: 400px;
     margin: 0 auto;
     display: flex;
@@ -13,9 +12,13 @@ body {
     color: #2b2839;
     border-radius: 10px;
     box-shadow: 20px 10px 5px rgba(0, 0, 0, 0.2);
-    
-
 }
+
+#icons {
+    display: flex;
+    gap:10px;
+}
+
 .avatar {
     width: 200px;
     padding: 0;
@@ -23,7 +26,7 @@ body {
     border-radius: 0 10px 10px 0;
 }
 
-.text {
+#text {
     padding: 20px;
     margin: 0;
 }
@@ -32,9 +35,8 @@ body {
     font-weight: bold;
 }
 
-.icons {
+a {
     gap: 10px;
     width: 30px;
-    display: flex;
 }
 

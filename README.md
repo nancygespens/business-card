@@ -1,3 +1,23 @@
+# Digital Business Card
+
+<img width="1682" alt="Digital Business Card" src="https://github.com/user-attachments/assets/4a590dc6-3657-4013-be8d-8390119df234">
+
+## Description
+
+The Digital Business Card is a simple, stylish web application designed to showcase your professional details and social media links. This project is an excellent example of how to use HTML, CSS, and JavaScript to create a visually appealing digital profile card.
+
+## Features
+
+- Displays a personalized digital business card.
+- Links to GitHub and Instagram profiles.
+- Responsive design to ensure compatibility across devices.
+- Clean and minimalist interface.
+
+## Technologies Used
+
+- HTML
+- CSS
+
 # Getting Started
 Install the dependencies and run the project
 ```
