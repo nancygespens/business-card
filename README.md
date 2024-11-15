@@ -4,7 +4,7 @@
 
 ## Description
 
-The Digital Business Card is a simple, stylish web application designed to showcase your professional details and social media links. This project is an excellent example of how to use HTML, CSS, and JavaScript to create a visually appealing digital profile card.
+The Digital Business Card is a simple, stylish web application designed to showcase my professional details and social media links.
 
 ## Features
 
