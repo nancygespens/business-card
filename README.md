@@ -1,6 +1,7 @@
 # Digital Business Card
 
-<img width="1682" alt="Digital Business Card" src="https://github.com/user-attachments/assets/4a590dc6-3657-4013-be8d-8390119df234">
+[![Demo](https://github.com/user-attachments/assets/4a590dc6-3657-4013-be8d-8390119df234)](https://thunderous-seahorse-0384df.netlify.app/)
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 ## Description
 
