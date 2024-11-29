@@ -1,6 +1,6 @@
 # Digital Business Card
 
-[![Demo](https://github.com/user-attachments/assets/4a590dc6-3657-4013-be8d-8390119df234)](https://incandescent-gecko-dab0be.netlify.app/)
+[![Demo](https://github.com/user-attachments/assets/e757893b-e059-47b4-98d8-ffc7fce89e8c)](https://incandescent-gecko-dab0be.netlify.app/)
 > Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
 
 
